@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 I fell in love with development and now actively study it.
 
-* 🌍  I'm based in Novosirirsk, Russia
-* 🖥️  See my [portfolio](https://savlevich.ru/)
-* ✉️  You can contact me at [Email](mailto:sa.savlevich@gmail.com) or [Telegram](https://t.me/d_livsi)
-* 🧠  I'm learning HTML, CSS, JS, React, Node.JS
-* 🤝  I'm open to collaborating on any interesting projects to
-* ⚡  I'm Iron Man!
+🌍  I'm based in Novosirirsk, Russia
+🖥️  See my [portfolio](https://savlevich.ru/)
+✉️  You can contact me at [Email](mailto:sa.savlevich@gmail.com) or [Telegram](https://t.me/d_livsi)
+🧠  I'm learning HTML, CSS, JS, React, Node.JS
+🤝  I'm open to collaborating on any interesting projects to
+⚡  I'm Iron Man!

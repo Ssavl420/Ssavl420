@@ -1,1 +1,1 @@
-[![Savlevich GitHub Banner](./assets/logo.png)](https://savlevich.ru)
+[![Savlevich GitHub Banner](./logo.png)](https://savlevich.ru)

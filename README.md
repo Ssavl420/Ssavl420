@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I fell in love with development and now actively study it.
+
+* 🌍  I'm based in Novosirirsk, Russia
+* 🖥️  See my [portfolio] (https://savlevich.ru/)
+* ✉️  You can contact me at [sa.savlevich@gmail.com](mailto:sa.savlevich@gmail.com)
+* 🧠  I'm learning HTML, CSS, JS, React, Node.JS
+* 🤝  I'm open to collaborating on any interesting projects to
+* ⚡  I'm Iron Man!

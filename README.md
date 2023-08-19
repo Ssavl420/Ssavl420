@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I fell in love with development and now actively study it.
 
-- 🌍  I'm based in Novosirirsk, Russia
+- 🌍  I'm based in Novosibirsk, Russia
 - 🖥️  See my [portfolio](https://savlevich.ru/)
 - ✉️  You can contact me at [Email](mailto:sa.savlevich@gmail.com) or [Telegram](https://t.me/d_livsi)
 - 🧠  I'm learning HTML, CSS, JS, React, Node.JS

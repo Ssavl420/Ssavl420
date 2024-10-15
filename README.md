@@ -19,7 +19,7 @@ I fell in love with development and now actively study it.
 - 🌍  I'm based in Novosibirsk, Russia
 - 🖥️  See my [portfolio](https://savlevich.ru/)
 - ✉️  You can contact me at [Email](mailto:sa.savlevich@gmail.com) or [Telegram](https://t.me/d_livsi)
-- 🧠  I'm learning HTML, CSS, JS, React, Node.JS
+- 🧠  I use React, JS, Php professionally, along with many other technologies
 - 🤝  I'm open to collaborating on any interesting projects to
 
 ### Skills
